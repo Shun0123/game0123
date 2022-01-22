@@ -1,5 +1,5 @@
-# SuperBot
+# SuperBot -> Game 0123
 
-제작자 블로그: https://lektion-von-erfolglosigkeit.tistory.com/
+원작자 블로그: https://lektion-von-erfolglosigkeit.tistory.com/
 
-token.txt에 봇 토큰 입력
+파일중 ffmpeg는 이분께 가서 다운 받아주세요.

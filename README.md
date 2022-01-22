@@ -1,2 +1,5 @@
-# game0123
-단지 누군가를 따라 보고 만든 게임 봇일뿐...
+# SuperBot
+
+제작자 블로그: https://lektion-von-erfolglosigkeit.tistory.com/
+
+token.txt에 봇 토큰 입력
